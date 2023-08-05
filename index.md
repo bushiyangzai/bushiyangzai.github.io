@@ -18,9 +18,9 @@
 
 ![轨迹规划](./index.assets/轨迹规划.gif)
 
-![QQ图片20230805150439](D:\Personal_Workspace\sy_workspace\动图\QQ图片20230805150439.gif)
+![181d18b0cbbfb2ff005b912505cfcb29](./assets/181d18b0cbbfb2ff005b912505cfcb29.JPG)
 
-![QQ图片20230805150501](D:\Personal_Workspace\sy_workspace\动图\QQ图片20230805150501.gif)
+![1ba607a45ac7c04f4fbfa16d6b7a41c6](./assets/1ba607a45ac7c04f4fbfa16d6b7a41c6-1691226968503-3.JPG)
 
 # 30V/1A 闭环控制同步整流buck电路方案
 
