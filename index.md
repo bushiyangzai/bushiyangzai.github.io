@@ -14,6 +14,8 @@
 
 在ROS系统中导入solid works中建立的机械臂模型，并进行三次多项式机械臂轨迹规划的仿真。
 
+并进一步与现实中的机械臂进行联动。
+
 ![轨迹规划](./index.assets/轨迹规划.gif)
 
 ![QQ图片20230805150439](D:\Personal_Workspace\sy_workspace\动图\QQ图片20230805150439.gif)
